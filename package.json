@@ -1,0 +1,25 @@
+{
+  "name": "cadastro-de-usuarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanmb95/cadastro-de-usuarios.git"
+  },
+  "author": "Bryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanmb95/cadastro-de-usuarios/issues"
+  },
+  "homepage": "https://github.com/bryanmb95/cadastro-de-usuarios#readme",
+  "dependencies": {
+    "standard": "^12.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1"
+  }
+}
